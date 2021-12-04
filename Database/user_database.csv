@@ -1,0 +1,8 @@
+net_id,name,email,password,grad_year,clubs,tags
+18b,Bob,new@email.com,new_password,2023,Chess Club~Quidditch Club,Sports~Intramural~Academic~STEM-Engineering~Business
+18n,Nick,18n@queensu.ca,0307020403190319031A030C031B0301,2023,Queen's E-Sports Association~Juggling Club,STEM-Engineering~E-Sports~Wellness~Mental Health~Sports~Co-ed
+19h,Harris,19h@queensu.ca,0307020403190319031A030C031B0301,2023,Intramural Co-Ed Volleyball~Tree Planting Club,Sports~Co-ed~Arts~Business~Marketing
+17m,Michael,17m@queensu.ca,0307020403190319031A030C031B0301,2022,Improv Club~Debate Club~Chess Club,STEM~Sports~Indoor~Winter~ReligiousAndCultural~SocialIssuesAndAdvocacy~Finanace
+18e,Bart,18e@queensu.ca,0307020403190319031A030C031B0301,2023,Squirrel Watching Club~Vertical Farming Design Team,STEM-Engineering~SocialIssuesAndAdvocacy~Academic~Religious~Sports
+17c,Kris,17c@queensu.ca,0307020403190319031A030C031B0301,2022,Music Production Club~Improv Club,STEM-Arts~Cultural~Dietary~HeatlhSupport
+18h,Harley,18h@queensu.ca,0307020403190319031A030C031B0301,2023,Intramural Co-Ed Volleyball~Vertical Farming Design Team,STEM~Accounting~Fitness~Accessibility~Conference
